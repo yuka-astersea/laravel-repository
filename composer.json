@@ -1,0 +1,21 @@
+{
+    "name": "yuka-astersea/laravel-repository",
+    "description": "Laravel Repository",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YukaAstersea\\LaravelRepository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yuka Astersea",
+            "email": "yuka.astersea@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "laravel/framework": "^v10.38.0"
+    }
+}
